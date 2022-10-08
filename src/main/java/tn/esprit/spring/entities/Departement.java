@@ -72,6 +72,6 @@ public class Departement implements Serializable {
 	public void setEntreprise(Entreprise entreprise) {
 		this.entreprise = entreprise;
 	}
-	 
+	 //j'ai ajouté un comm
 }
  
