@@ -73,5 +73,6 @@ public class Departement implements Serializable {
 		this.entreprise = entreprise;
 	}
 	 //j'ai ajouté un comm
+	//j'ai ajouté une autre modif
 }
  
